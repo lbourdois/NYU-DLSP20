@@ -40,6 +40,16 @@ exclude:
   - en/index.md
   - vendor
 
+# Print cover page configuration
+print_cover_title: "New York University Deep Learning Course"
+print_cover_subtitle: "2020 Edition"
+print_cover_tagline: "Course by Yann LeCun and Alfredo Canziani"
+
+print_cover_title_fr: "Cours d'apprentissage profond de la New York University"
+print_cover_subtitle_fr: "Edition 2020"
+print_cover_tagline_fr: "Le cours de Yann LE CUN et Alfredo CANZIANI"
+print_cover_translation_fr: "traduit en français par Loïck BOURDOIS"
+
 ################################### English ####################################
 prologues:
   - path: en/faq.md
