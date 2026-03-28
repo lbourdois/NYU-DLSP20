@@ -35,7 +35,8 @@ Voici quelques réponses à des questions fréquemment posées :
 -	**Combien de temps consacrer à ce cours ?**  
 > Pour chaque semaine, il y a environ 2h30/3h de contenu vidéo. Avec le temps consacré à la prise de notes et celui pour jouer avec les *notebooks*, une estimation totale de 5h par semaine semble raisonnable. Pour la suite, cela dépend du niveau d'immersion que vous voulez atteindre dans un sujet donné (lire les articles donnés en référence, appliquer ce qui a été vu en classe à vos propres projets, etc.).
 -	**Où poser une question à l’issue du visionnage d’une vidéo ?**  
->	Vous pouvez la poser directement (en anglais) dans la section commentaires sous la vidéo YouTube en question, Alfredo se fera un plaisir d’y répondre. Si cette question porte sur un point précis de la vidéo, pensez à indiquer l’horodatage. Vous pouvez le faire également sur le [Discord](https://discord.gg/CthuqsX8Pb) de la classe dédié expressément aux étudiants. Il sert également à coordonner des groupes de visionnage, discuter des devoirs, suggérer des améliorations ou plus généralement pour tout sujet lié au cours.
+>	Vous pouvez la poser directement (en anglais) dans la section commentaires sous la vidéo YouTube en question, Alfredo se fera un plaisir d’y répondre. Si cette question porte sur un point précis de la vidéo, pensez à indiquer l’horodatage.
+> Vous pouvez le faire également sur le [Discord](https://discord.gg/CthuqsX8Pb) de la classe dédié expressément aux étudiants. Il sert également à coordonner des groupes de visionnage, discuter des devoirs, suggérer des améliorations ou plus généralement pour tout sujet lié au cours.
 - **Puis-je utiliser ce cours?**  
 > Bien sûr, le cours est placé sous la [Licence internationale Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr).
 > Cela signifie que :
@@ -44,12 +45,16 @@ Voici quelques réponses à des questions fréquemment posées :
 > - Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel à partir de l'œuvre originale, vous devez diffuser l'œuvre modifiée dans les mêmes conditions, c'est à dire avec la même licence avec laquelle l'œuvre originale a été diffusée. 
 >  
 > - Pour le crédit, vous pouvez utiliser le BibTeX suivant :
+> ```bibtex
 > @misc{canziani2020nyudlsp20,  
-  author = {Canziani, Alfredo and LeCun, Yann},  
-  title = {NYU Deep Learning, Spring 2020},  
-  howpublished = "\url{https://atcold.github.io/pytorch-Deep-Learning/}",  
-  year = {2020},  
-  note = "[Online; accessed <today>]"}
+>   author = {Canziani, Alfredo and LeCun, Yann},  
+>   title = {NYU Deep Learning, Spring 2020},  
+>   howpublished = "\url{https://atcold.github.io/NYU-DLSP20}",  
+>   year = {2020},  
+>   note = "[Online; accessed <today>]"  
+> }
+> ```
+
 
 
 #	Traduction
