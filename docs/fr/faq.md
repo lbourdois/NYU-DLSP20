@@ -53,7 +53,7 @@ Voici quelques réponses à des questions fréquemment posées :
 >   year = {2020},
 >   note = "[Online; accessed <today>]"
 > }
-> `
+> ```
 
 
 
